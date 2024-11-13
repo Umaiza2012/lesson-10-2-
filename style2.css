@@ -1,0 +1,13 @@
+/* Selector (css syntax)*/
+.c1::before 
+{
+    content: "👌"
+}
+.c2::after
+{
+content: "😎"
+}
+.c3::first-letter
+{
+    font-size:200px;
+}
